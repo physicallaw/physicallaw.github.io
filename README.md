@@ -1,1 +1,0 @@
-# physicallaw.github.io
