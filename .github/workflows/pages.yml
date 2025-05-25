@@ -45,6 +45,8 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+          BUNDLE_GEMFILE: Gemfile
+          JEKYLL_PLUGINS: "jekyll-seo-tag jekyll-github-metadata jekyll-include-cache jekyll-sitemap jekyll-last-modified-at"
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
