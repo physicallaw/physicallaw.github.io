@@ -115,7 +115,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-last-modified-at
   jekyll-sitemap
-  just-the-docs (= 0.10.0)
+  just-the-docs (= 0.10.1)
 
 BUNDLED WITH
    2.5.9

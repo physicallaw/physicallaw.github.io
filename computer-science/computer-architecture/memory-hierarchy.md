@@ -3,7 +3,7 @@ title: 메모리 계층구조
 parent: 컴퓨터 구조
 nav_order: 1
 date: 2024-11-26
-excerpt: 메모리 계층구조는 컴퓨터 시스템에서 속도와 비용을 최적화하기 위해 다양한 유형의 메모리를 계층적으로 배치한 구조입니다.
+excerpt: 메모리 계층구조는 컴퓨터 시스템에서 속도와 비용을 최적화하기 위해 다양한 유형의 메모리를 계층적으로 배치한 구조이다.
 permalink: /memory-hierarchy.html
 math: mathjax
 ---
